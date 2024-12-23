@@ -12,6 +12,7 @@ Lista de tarefas:
 - [x] Aprender fazer lista demarcada
 - [x] Aprender a colocar uma imagem
 - [x] Aprender a colocar Links
+- [x] Aprender a criar uma tabela
 
 Para criar uma lista de tarefas é necessário usar sinal de **MENOS** e dar um espaço e abrir **COLCHETE** e fechar **COLCHETE**!
 
@@ -30,3 +31,14 @@ Colocando uma imagem: Para colocar a imagem é necessário arrastar sua imagem p
 Para colocar links é necessário abrir **Colchete** colocar o nome do link e fechar **Colchete**, abrir **Parenteses** colocar o link e fechar **Parenteses**
 
 * Exemplo: [Acesse meu Github e me siga](https://github.com/ViniciusL00)
+
+
+Para criar a tabela voce vai precisar:
+* Exemplo: **Nome** dar um espaço e usar o carectere **PIPE** e **IDADE** e embaixo voce vai usar 3 sinais de **MENOS** e em seguida o caractere **PIPE** e embaixo voce completa com
+o **NOME** da um espaço e coloca o carectere **PIPE** da um espaço e coloca **IDADE**
+
+E a tabela vai ficar assim:
+
+* NOME | IDADE | NACIONALIDADE
+* ---|---|---
+* Vinicius | 26 ANOS | BRASILEIRO
