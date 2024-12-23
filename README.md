@@ -34,7 +34,7 @@ Para colocar links é necessário abrir **Colchete** colocar o nome do link e fe
 
 
 Para criar a tabela voce vai precisar:
-* Exemplo: **Nome** dar um espaço e usar o carectere **PIPE** e **IDADE** e embaixo voce vai usar 3 sinais de **MENOS** e em seguida o caractere **PIPE** e embaixo voce completa com
+* Exemplo: **Nome** dar um espaço e usar o carectere **PIPE** e dar um espaço e colocar **IDADE** e embaixo voce vai usar 3 sinais de **MENOS** e em seguida o caractere **PIPE** e embaixo voce completa com
 o **NOME** da um espaço e coloca o carectere **PIPE** da um espaço e coloca **IDADE**
 
 E a tabela vai ficar assim:
