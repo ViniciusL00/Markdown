@@ -39,6 +39,6 @@ o **NOME** da um espaço e coloca o carectere **PIPE** da um espaço e coloca **
 
 E a tabela vai ficar assim:
 
-* NOME | IDADE | NACIONALIDADE
-* ---|---|---
-* Vinicius | 26 ANOS | BRASILEIRO
+NOME | IDADE | NACIONALIDADE
+---|---|---
+Vinicius | 26 ANOS | BRASILEIRO
