@@ -23,4 +23,6 @@ Para fazer uma lista demarcada é necessário usar o **ASTERISCO**:
 * Exemplo
 * Exemplo 2
 
-Colocando uma imagem: <img width="441" alt="Dainn Crowley MAGO do jogo Lunia" src="https://github.com/user-attachments/assets/740ba593-f1c3-452e-8722-1f3598e0a125" />
+Colocando uma imagem: Para colocar a imagem é necessário arrastar sua imagem para **Attach files by dragging & dropping, selecting or pasting them**.
+
+<img width="441" alt="Dainn Crowley MAGO do jogo Lunia" src="https://github.com/user-attachments/assets/740ba593-f1c3-452e-8722-1f3598e0a125" />
