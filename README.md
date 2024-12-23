@@ -14,10 +14,10 @@ Lista de tarefas:
 
 Para criar uma lista de tarefas é necessário usar sinal de **MENOS** e dar um espaço e abrir **COLCHETE** e fechar **COLCHETE**!
 
-Para fazer uma lista númerada é necessário usar um número e ponto:
+Para fazer uma lista númerada é necessário usar um **número** e **ponto**:
 1. Lista numerada 1
 2. Lista numerada 2
 
-Para fazer uma lista demarcada é necessário usar o *:
+Para fazer uma lista demarcada é necessário usar o **ASTERISCO**:
 * Exemplo
 * Exemplo 2
