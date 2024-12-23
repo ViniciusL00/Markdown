@@ -11,7 +11,7 @@ Lista de tarefas:
 - [x] Aprender fazer lista númerada
 - [x] Aprender fazer lista demarcada
 - [x] Lista de tarefas concluída
-
+- [x] Aprender a colocar uma imagem
 Para criar uma lista de tarefas é necessário usar sinal de **MENOS** e dar um espaço e abrir **COLCHETE** e fechar **COLCHETE**!
 
 Para fazer uma lista númerada é necessário usar um **número** e **ponto**:
@@ -21,3 +21,5 @@ Para fazer uma lista númerada é necessário usar um **número** e **ponto**:
 Para fazer uma lista demarcada é necessário usar o **ASTERISCO**:
 * Exemplo
 * Exemplo 2
+
+Colocando uma imagem: <img width="441" alt="Dainn Crowley MAGO do jogo Lunia" src="https://github.com/user-attachments/assets/740ba593-f1c3-452e-8722-1f3598e0a125" />
