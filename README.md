@@ -29,4 +29,4 @@ Colocando uma imagem: Para colocar a imagem é necessário arrastar sua imagem p
 
 Para colocar links é necessário abrir **Colchete** colocar o nome do link e fechar **Colchete**, abrir **Parenteses** colocar o link e fechar **Parenteses**
 
-* Exemplo: [Acesse meu Github e me siga] (https://github.com/ViniciusL00)
+* Exemplo: [Acesse meu Github e me siga](https://github.com/ViniciusL00)
