@@ -6,3 +6,6 @@
 
 * Estou estudando com a Equipe **Curso em Vídeo**!
 
+Lista de tarefas
+- [x] Aprender a criar lista de tarefas
+- [x] Lista de tarefas concluida
