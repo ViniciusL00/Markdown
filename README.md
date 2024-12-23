@@ -11,6 +11,7 @@ Lista de tarefas:
 - [x] Aprender fazer lista númerada
 - [x] Aprender fazer lista demarcada
 - [x] Aprender a colocar uma imagem
+- [x] Aprender a colocar Links
 
 Para criar uma lista de tarefas é necessário usar sinal de **MENOS** e dar um espaço e abrir **COLCHETE** e fechar **COLCHETE**!
 
@@ -25,3 +26,7 @@ Para fazer uma lista demarcada é necessário usar o **ASTERISCO**:
 Colocando uma imagem: Para colocar a imagem é necessário arrastar sua imagem para **Attach files by dragging & dropping, selecting or pasting them**.
 
 <img width="441" alt="Dainn Crowley MAGO do jogo Lunia" src="https://github.com/user-attachments/assets/740ba593-f1c3-452e-8722-1f3598e0a125" />
+
+Para colocar links é necessário abrir **Colchete** colocar o nome do link e fechar **Colchete**, abrir **Parenteses** colocar o link e fechar **Parensteses**
+
+* Exemplo: [Acesse meu Github e me siga] (https://github.com/ViniciusL00)
