@@ -13,6 +13,7 @@ Lista de tarefas:
 - [x] Aprender a colocar uma imagem
 - [x] Aprender a colocar Links
 - [x] Aprender a criar uma tabela
+- [x] Aprender a colocar EMOJI
 
 Para criar uma lista de tarefas é necessário usar sinal de **MENOS** e dar um espaço e abrir **COLCHETE** e fechar **COLCHETE**!
 
@@ -42,3 +43,6 @@ E a tabela vai ficar assim:
 NOME | IDADE | NACIONALIDADE
 ---|---|---
 Vinicius | 26 ANOS | BRASILEIRO
+
+Para colocar **EMOJI** é necessário colocar **DOIS PONTOS** e o nome do **EMOJI**
+* Exemplo: 🖖
