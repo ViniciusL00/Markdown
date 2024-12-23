@@ -1,8 +1,8 @@
 # Markdown
 ***
-Repositório para meu estudo de **Git e Github**!
+* Repositório para meu estudo de **Git e Github**!
 
-Estou aprendendo sobre a linguagem **Markdown**!
+  * Estou aprendendo sobre a linguagem **Markdown**!
 
-Estou estudando com a Equipe **Curso em Vídeo**!
+   * Estou estudando com a Equipe **Curso em Vídeo**!
 
